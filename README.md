@@ -1,2 +1,2 @@
 # Python-Programming
-this is the python programming internship work.
+this is the python programming.
